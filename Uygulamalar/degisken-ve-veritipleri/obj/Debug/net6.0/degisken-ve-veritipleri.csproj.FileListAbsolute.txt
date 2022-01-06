@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\bin\Debug\net6.0\degisken-ve-veritipleri.exe
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\bin\Debug\net6.0\degisken-ve-veritipleri.deps.json
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\bin\Debug\net6.0\degisken-ve-veritipleri.runtimeconfig.json
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\bin\Debug\net6.0\degisken-ve-veritipleri.dll
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\bin\Debug\net6.0\ref\degisken-ve-veritipleri.dll
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\bin\Debug\net6.0\degisken-ve-veritipleri.pdb
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.dll
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\ref\degisken-ve-veritipleri.dll
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.pdb
+C:\Users\feyza\PatikaDev\uygulamalar\degisken-ve-veritipleri\obj\Debug\net6.0\degisken-ve-veritipleri.genruntimeconfig.cache
