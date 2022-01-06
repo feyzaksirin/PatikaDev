@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\bin\Debug\net6.0\ref\tip-donusumleri.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\ref\tip-donusumleri.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.genruntimeconfig.cache
