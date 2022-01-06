@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\bin\Debug\net6.0\hata-ayiklama.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\bin\Debug\net6.0\hata-ayiklama.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\bin\Debug\net6.0\hata-ayiklama.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\bin\Debug\net6.0\hata-ayiklama.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\bin\Debug\net6.0\ref\hata-ayiklama.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\bin\Debug\net6.0\hata-ayiklama.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\ref\hata-ayiklama.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\hata-ayiklama\obj\Debug\net6.0\hata-ayiklama.genruntimeconfig.cache
