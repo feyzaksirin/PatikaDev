@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\bin\Debug\net6.0\if-else-if.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\bin\Debug\net6.0\if-else-if.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\bin\Debug\net6.0\if-else-if.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\bin\Debug\net6.0\if-else-if.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\bin\Debug\net6.0\ref\if-else-if.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\bin\Debug\net6.0\if-else-if.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\ref\if-else-if.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\if-else-if\obj\Debug\net6.0\if-else-if.genruntimeconfig.cache
