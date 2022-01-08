@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\bin\Debug\net6.0\switch-case.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\bin\Debug\net6.0\switch-case.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\bin\Debug\net6.0\switch-case.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\bin\Debug\net6.0\ref\switch-case.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\bin\Debug\net6.0\switch-case.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\ref\switch-case.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
