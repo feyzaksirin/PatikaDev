@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\bin\Debug\net6.0\ref\donguler-while-foreach.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\ref\donguler-while-foreach.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.genruntimeconfig.cache
