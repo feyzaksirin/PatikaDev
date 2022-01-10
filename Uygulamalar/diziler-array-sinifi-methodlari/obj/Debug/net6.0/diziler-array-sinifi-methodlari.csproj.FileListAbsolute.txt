@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\bin\Debug\net6.0\diziler-array-sinifi-methodlari.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\bin\Debug\net6.0\diziler-array-sinifi-methodlari.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\bin\Debug\net6.0\diziler-array-sinifi-methodlari.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\bin\Debug\net6.0\diziler-array-sinifi-methodlari.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\bin\Debug\net6.0\ref\diziler-array-sinifi-methodlari.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\bin\Debug\net6.0\diziler-array-sinifi-methodlari.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\ref\diziler-array-sinifi-methodlari.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler-array-sinifi-methodlari\obj\Debug\net6.0\diziler-array-sinifi-methodlari.genruntimeconfig.cache
