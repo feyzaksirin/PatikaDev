@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\bin\Debug\net6.0\diziler.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\bin\Debug\net6.0\diziler.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\bin\Debug\net6.0\ref\diziler.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\bin\Debug\net6.0\diziler.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\ref\diziler.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
