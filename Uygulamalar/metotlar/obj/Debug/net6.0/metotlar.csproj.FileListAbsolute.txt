@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\bin\Debug\net6.0\metotlar.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\bin\Debug\net6.0\metotlar.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\bin\Debug\net6.0\metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\bin\Debug\net6.0\ref\metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\bin\Debug\net6.0\metotlar.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\ref\metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
