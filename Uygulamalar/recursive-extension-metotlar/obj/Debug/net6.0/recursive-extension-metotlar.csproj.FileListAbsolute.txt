@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\bin\Debug\net6.0\ref\recursive-extension-metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\ref\recursive-extension-metotlar.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.genruntimeconfig.cache
