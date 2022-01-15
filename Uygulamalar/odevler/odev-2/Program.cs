@@ -16,7 +16,8 @@ for (int i = 0; i < n; i++)
     }
 foreach  (var sayi in bolunensayılar)
                 {
-                    Console.Write("Tam bölünen sayılar: " + sayi + " ");
+                    Console.WriteLine("Tam bölünen sayılar: ");
+                    Console.Write(sayi + " ");
                 }                
    
 
