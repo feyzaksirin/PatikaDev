@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\bin\Debug\net6.0\odev-3.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\bin\Debug\net6.0\odev-3.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\bin\Debug\net6.0\odev-3.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\bin\Debug\net6.0\odev-3.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\bin\Debug\net6.0\ref\odev-3.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\bin\Debug\net6.0\odev-3.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\ref\odev-3.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\odevler\odev-3\obj\Debug\net6.0\odev-3.genruntimeconfig.cache
