@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\bin\Debug\net6.0\ref\hazir-metotlar-string.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\bin\Debug\net6.0\hazir-metotlar-string.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\ref\hazir-metotlar-string.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\hazir-metotlar-string\obj\Debug\net6.0\hazir-metotlar-string.genruntimeconfig.cache
