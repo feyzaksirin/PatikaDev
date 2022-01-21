@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\bin\Debug\net6.0\array-list.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\bin\Debug\net6.0\array-list.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\bin\Debug\net6.0\array-list.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\bin\Debug\net6.0\array-list.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\bin\Debug\net6.0\ref\array-list.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\bin\Debug\net6.0\array-list.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\ref\array-list.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\array-list\obj\Debug\net6.0\array-list.genruntimeconfig.cache
