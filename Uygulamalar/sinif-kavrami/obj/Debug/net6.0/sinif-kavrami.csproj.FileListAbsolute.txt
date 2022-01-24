@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\bin\Debug\net6.0\ref\sinif-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\ref\sinif-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.genruntimeconfig.cache
