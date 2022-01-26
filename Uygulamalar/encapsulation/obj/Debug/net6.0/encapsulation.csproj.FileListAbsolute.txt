@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\bin\Debug\net6.0\encapsulation.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\bin\Debug\net6.0\encapsulation.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\bin\Debug\net6.0\ref\encapsulation.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
