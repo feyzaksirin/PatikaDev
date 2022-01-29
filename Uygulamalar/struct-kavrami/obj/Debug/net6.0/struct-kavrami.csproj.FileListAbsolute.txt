@@ -1,0 +1,15 @@
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\bin\Debug\net6.0\struct-kavrami.exe
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\bin\Debug\net6.0\struct-kavrami.deps.json
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\bin\Debug\net6.0\struct-kavrami.runtimeconfig.json
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\bin\Debug\net6.0\struct-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\bin\Debug\net6.0\ref\struct-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\bin\Debug\net6.0\struct-kavrami.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.AssemblyReference.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfoInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfo.cs
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\ref\struct-kavrami.dll
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.pdb
+C:\Users\feyza\PatikaDev\Uygulamalar\struct-kavrami\obj\Debug\net6.0\struct-kavrami.genruntimeconfig.cache
