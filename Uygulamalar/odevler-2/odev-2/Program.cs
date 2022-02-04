@@ -31,6 +31,6 @@
             maxValueAvr +=item;
         }
         System.Console.WriteLine("Küçükler Dizisinin Ortalaması: "+minValueAvr/3);
-        System.Console.WriteLine("Byükler Dizisinin Ortalaması: "+maxValueAvr/3);
+        System.Console.WriteLine("Büyükler Dizisinin Ortalaması: "+maxValueAvr/3);
         System.Console.WriteLine("Küçükler Dizisinin Ortalama Toplamları: "+minValueAvr);
         System.Console.WriteLine("Büyükler Dizisinin Ortalama Toplamları: "+maxValueAvr);
